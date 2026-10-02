@@ -3,6 +3,13 @@
 > 一个使用 **Python + PySide6** 制作的 Windows 可爱互动桌宠。  
 > Cherry 可以陪你待在桌面上、换装、做动作、随机说话，还会根据当前状态触发连续动作和隐藏彩蛋。
 
+## 🌸 Project Preview
+
+<p align="center">
+  <img src="./CherryDesktopPet_Feature_Guide.png" alt="Cherry Desktop Pet Feature Guide" width="100%">
+</p>
+
+
 ---
 
 ## ✨ 项目简介
